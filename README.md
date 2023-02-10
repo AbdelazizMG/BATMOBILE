@@ -1,5 +1,5 @@
 # BATMOBILE
-This is a Repo for BATMOBILE Project for " Industrial Electronics " Subject.
+- This is a Repo for BATMOBILE Project for " Industrial Electronics " Subject.
 
 # Features
 BATMOBILE is controlled in two ways: 
